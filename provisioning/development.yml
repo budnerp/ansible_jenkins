@@ -1,0 +1,5 @@
+continuous_integration:
+  hosts:
+    jenkins:
+  vars:
+    ansible_connection: local
